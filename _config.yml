@@ -29,7 +29,7 @@ github_username:  Callisto13
 favicon: assets/favicon.svg
 header_feature_image: assets/images/header-small.jpeg
 # Build settings
-theme: type-on-strap
+remote_theme: sylhare/Type-on-Strap
 color_theme: auto
 plugins:
   - jekyll-feed
