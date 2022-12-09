@@ -1,0 +1,6 @@
+# For the share button options at the bottom of the articles
+share:
+  facebook: true
+  twitter: true
+  reddit: true
+  tumblr: true
