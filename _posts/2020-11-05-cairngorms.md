@@ -106,7 +106,7 @@ so it would have been a choice between potentially catching Covid or maybe dying
 got swept away.
 
 A bit melodramatic, I know. But by 9pm the wind had picked up and was lifting my tent so much
-that I honestly wondered whether the weight of me inside would enough to hold it down all night.
+that I honestly wondered whether the weight of me inside would be enough to hold it down all night.
 By 10pm I had to get out and check my lines. 3 out of 6 stakes had been dragged up, so I staggered
 about in the gale, tightening everything and weighing every stake and guy-out with the biggest rocks that
 I could lift.
