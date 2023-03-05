@@ -41,7 +41,9 @@ paginate: 5
 paginate_path: "/blog/page:num"
 excerpt: true
 footer_text: >
-  copyright © claudia beresford 2022
+  copyright © claudia beresford 2023
+
+google_analytics: G-QF9QQF37QW
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
